@@ -1,3 +1,18 @@
+## Imagens do Projeto
+![LayoutDoProjeto](https://github.com/theusgit/Single-Page-Application/blob/master/LayoutDoProjeto.png)
+![Print1](https://github.com/theusgit/Single-Page-Application/blob/master/print1.png)
+![Print1](https://github.com/theusgit/Single-Page-Application/blob/master/print2.png)
+![Print1](https://github.com/theusgit/Single-Page-Application/blob/master/print3.png)
+![Print1](https://github.com/theusgit/Single-Page-Application/blob/master/print4.png)
+
+### O que aprendi com este projeto?
+Aplicação de página única, trabalhando com modularização e componentes, BackEnd em PHP, Props
+Bootstrap.
+
+### Onde aprendi?
+Neste curso voltado a React.js - https://www.youtube.com/watch?v=D97xHLUzoEY
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
